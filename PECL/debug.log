@@ -1,0 +1,491 @@
+[ARCHIVO LOG CAMPAMENTO]
+
+[15/05/2022 12:03:21] --> [CAMPAMENTO] El monitor M0 abrió y entro a la cola 1
+[15/05/2022 12:03:22] --> [CAMPAMENTO] El monitor M1 abrió y entro a la cola 2
+[15/05/2022 12:03:22] --> [CAMPAMENTO] El monitor M2 ha entrado en la cola 2
+[15/05/2022 12:03:22] --> [CAMPAMENTO] El monitor M3 ha entrado en la cola 1
+[15/05/2022 12:03:22] --> [CAMPAMENTO] El niño N00000 ha entrado al campamento por la cola 2
+[15/05/2022 12:03:22] --> [TIROLINA] El monitor M3 ha entrado a la tirolina
+[15/05/2022 12:03:22] --> [CAMPAMENTO] El niño N00001 ha entrado al campamento por la cola 1
+[15/05/2022 12:03:22] --> [SOGA] El monitor de soga M3 está preparando al niño N00000
+[15/05/2022 12:03:22] --> [CAMPAMENTO] El niño N00002 ha entrado al campamento por la cola 2
+[15/05/2022 12:03:22] --> [TIROLINA] El niño N00001 ha entrado a la cola de espera
+[15/05/2022 12:03:22] --> [SOGA] El niño N00002 ha entrado a la soga
+[15/05/2022 12:03:22] --> [CAMPAMENTO] El niño N00003 ha entrado al campamento por la cola 2
+[15/05/2022 12:03:22] --> [CAMPAMENTO] El niño N00004 ha entrado al campamento por la cola 1
+[15/05/2022 12:03:22] --> [TIROLINA] El niño N00003 ha entrado a la cola de espera
+[15/05/2022 12:03:22] --> [CAMPAMENTO] El niño N00005 ha entrado al campamento por la cola 2
+[15/05/2022 12:03:22] --> [TIROLINA] El niño N00004 ha entrado a la cola de espera
+[15/05/2022 12:03:22] --> [SOGA] El niño N00005 ha entrado a la soga
+[15/05/2022 12:03:22] --> [CAMPAMENTO] El niño N00006 ha entrado al campamento por la cola 2
+[15/05/2022 12:03:22] --> [SOGA] El niño N00006 ha entrado a la soga
+[15/05/2022 12:03:22] --> [CAMPAMENTO] El niño N00007 ha entrado al campamento por la cola 2
+[15/05/2022 12:03:22] --> [SOGA] El niño N00007 ha entrado a la soga
+[15/05/2022 12:03:22] --> [CAMPAMENTO] El niño N00008 ha entrado al campamento por la cola 1
+[15/05/2022 12:03:22] --> [SOGA] El niño N00008 ha entrado a la soga
+[15/05/2022 12:03:22] --> [CAMPAMENTO] El niño N00009 ha entrado al campamento por la cola 1
+[15/05/2022 12:03:22] --> [CAMPAMENTO] El niño N00010 ha entrado al campamento por la cola 1
+[15/05/2022 12:03:22] --> [TIROLINA] El niño N00009 ha entrado a la cola de espera
+[15/05/2022 12:03:22] --> [CAMPAMENTO] El niño N00011 ha entrado al campamento por la cola 2
+[15/05/2022 12:03:22] --> [TIROLINA] El niño N00010 ha entrado a la cola de espera
+[15/05/2022 12:03:22] --> [SOGA] El niño N00011 ha entrado a la soga
+[15/05/2022 12:03:22] --> [CAMPAMENTO] El niño N00012 ha entrado al campamento por la cola 1
+[15/05/2022 12:03:22] --> [CAMPAMENTO] El niño N00013 ha entrado al campamento por la cola 2
+[15/05/2022 12:03:22] --> [TIROLINA] El niño N00012 ha entrado a la cola de espera
+[15/05/2022 12:03:22] --> [SOGA] El niño N00013 ha entrado a la soga
+[15/05/2022 12:03:22] --> [CAMPAMENTO] El niño N00014 ha entrado al campamento por la cola 1
+[15/05/2022 12:03:22] --> [SOGA] El niño N00014 ha entrado a la soga
+[15/05/2022 12:03:22] --> [CAMPAMENTO] El niño N00015 ha entrado al campamento por la cola 1
+[15/05/2022 12:03:22] --> [CAMPAMENTO] El niño N00016 ha entrado al campamento por la cola 2
+[15/05/2022 12:03:22] --> [TIROLINA] El niño N00015 ha entrado a la cola de espera
+[15/05/2022 12:03:22] --> [SOGA] El niño N00016 ha entrado a la soga
+[15/05/2022 12:03:22] --> [CAMPAMENTO] El niño N00017 ha entrado al campamento por la cola 1
+[15/05/2022 12:03:22] --> [CAMPAMENTO] El niño N00018 ha entrado al campamento por la cola 1
+[15/05/2022 12:03:22] --> [SOGA] El niño N00017 ha entrado a la soga
+[15/05/2022 12:03:22] --> [CAMPAMENTO] El niño N00019 ha entrado al campamento por la cola 1
+[15/05/2022 12:03:22] --> [TIROLINA] El niño N00018 ha entrado a la cola de espera
+[15/05/2022 12:03:22] --> [CAMPAMENTO] El niño N00020 ha entrado al campamento por la cola 1
+[15/05/2022 12:03:22] --> [SOGA] El monitor de soga M0 ha asignado al niño N00002 el equipo A
+[15/05/2022 12:03:22] --> [TIROLINA] El niño N00020 ha entrado a la cola de espera
+[15/05/2022 12:03:22] --> [CAMPAMENTO] El niño N00021 ha entrado al campamento por la cola 1
+[15/05/2022 12:03:22] --> [SOGA] El monitor de soga M0 ha asignado al niño N00005 el equipo B
+[15/05/2022 12:03:22] --> [TIROLINA] El niño N00021 ha entrado a la cola de espera
+[15/05/2022 12:03:22] --> [CAMPAMENTO] El niño N00022 ha entrado al campamento por la cola 2
+[15/05/2022 12:03:22] --> [SOGA] El monitor de soga M0 ha asignado al niño N00006 el equipo B
+[15/05/2022 12:03:22] --> [CAMPAMENTO] El niño N00023 ha entrado al campamento por la cola 1
+[15/05/2022 12:03:22] --> [SOGA] El monitor de soga M0 ha asignado al niño N00007 el equipo A
+[15/05/2022 12:03:22] --> [CAMPAMENTO] El niño N00024 ha entrado al campamento por la cola 1
+[15/05/2022 12:03:22] --> [SOGA] El monitor de soga M0 ha asignado al niño N00008 el equipo A
+[15/05/2022 12:03:22] --> [CAMPAMENTO] El niño N00025 ha entrado al campamento por la cola 1
+[15/05/2022 12:03:22] --> [SOGA] El monitor de soga M0 ha asignado al niño N00011 el equipo A
+[15/05/2022 12:03:22] --> [TIROLINA] El niño N00025 ha entrado a la cola de espera
+[15/05/2022 12:03:22] --> [CAMPAMENTO] El niño N00026 ha entrado al campamento por la cola 1
+[15/05/2022 12:03:22] --> [SOGA] El monitor de soga M0 ha asignado al niño N00013 el equipo A
+[15/05/2022 12:03:22] --> [CAMPAMENTO] El niño N00027 ha entrado al campamento por la cola 1
+[15/05/2022 12:03:22] --> [SOGA] El monitor de soga M0 ha asignado al niño N00014 el equipo B
+[15/05/2022 12:03:22] --> [TIROLINA] El niño N00027 ha entrado a la cola de espera
+[15/05/2022 12:03:22] --> [CAMPAMENTO] El niño N00028 ha entrado al campamento por la cola 1
+[15/05/2022 12:03:22] --> [SOGA] El monitor de soga M0 ha asignado al niño N00016 el equipo B
+[15/05/2022 12:03:22] --> [CAMPAMENTO] El niño N00029 ha entrado al campamento por la cola 2
+[15/05/2022 12:03:22] --> [SOGA] El monitor de soga M0 ha asignado al niño N00017 el equipo B
+[15/05/2022 12:03:22] --> [CAMPAMENTO] El niño N00030 ha entrado al campamento por la cola 1
+[15/05/2022 12:03:22] --> [CAMPAMENTO] El niño N00031 ha entrado al campamento por la cola 1
+[15/05/2022 12:03:22] --> [CAMPAMENTO] El niño N00032 ha entrado al campamento por la cola 1
+[15/05/2022 12:03:22] --> [TIROLINA] El niño N00031 ha entrado a la cola de espera
+[15/05/2022 12:03:22] --> [CAMPAMENTO] El niño N00033 ha entrado al campamento por la cola 2
+[15/05/2022 12:03:22] --> [CAMPAMENTO] El niño N00034 ha entrado al campamento por la cola 1
+[15/05/2022 12:03:22] --> [CAMPAMENTO] El niño N00035 ha entrado al campamento por la cola 1
+[15/05/2022 12:03:22] --> [TIROLINA] El niño N00035 ha entrado a la cola de espera
+[15/05/2022 12:03:22] --> [CAMPAMENTO] El niño N00036 ha entrado al campamento por la cola 2
+[15/05/2022 12:03:22] --> [TIROLINA] El niño N00036 ha entrado a la cola de espera
+[15/05/2022 12:03:22] --> [CAMPAMENTO] El niño N00037 ha entrado al campamento por la cola 1
+[15/05/2022 12:03:22] --> [CAMPAMENTO] El niño N00038 ha entrado al campamento por la cola 2
+[15/05/2022 12:03:22] --> [CAMPAMENTO] El niño N00039 ha entrado al campamento por la cola 2
+[15/05/2022 12:03:22] --> [CAMPAMENTO] El niño N00040 ha entrado al campamento por la cola 2
+[15/05/2022 12:03:22] --> [TIROLINA] El niño N00039 ha entrado a la cola de espera
+[15/05/2022 12:03:22] --> [CAMPAMENTO] El niño N00041 ha entrado al campamento por la cola 1
+[15/05/2022 12:03:22] --> [CAMPAMENTO] El niño N00042 ha entrado al campamento por la cola 2
+[15/05/2022 12:03:22] --> [CAMPAMENTO] El niño N00043 ha entrado al campamento por la cola 2
+[15/05/2022 12:03:22] --> [TIROLINA] El niño N00042 ha entrado a la cola de espera
+[15/05/2022 12:03:22] --> [CAMPAMENTO] El niño N00044 ha entrado al campamento por la cola 1
+[15/05/2022 12:03:22] --> [TIROLINA] El niño N00044 ha entrado a la cola de espera
+[15/05/2022 12:03:22] --> [CAMPAMENTO] El niño N00045 ha entrado al campamento por la cola 1
+[15/05/2022 12:03:22] --> [CAMPAMENTO] El niño N00046 ha entrado al campamento por la cola 1
+[15/05/2022 12:03:22] --> [CAMPAMENTO] El niño N00047 ha entrado al campamento por la cola 1
+[15/05/2022 12:03:22] --> [TIROLINA] El niño N00046 ha entrado a la cola de espera
+[15/05/2022 12:03:22] --> [CAMPAMENTO] El niño N00048 ha entrado al campamento por la cola 1
+[15/05/2022 12:03:22] --> [TIROLINA] El niño N00048 ha entrado a la cola de espera
+[15/05/2022 12:03:22] --> [CAMPAMENTO] El niño N00049 ha entrado al campamento por la cola 2
+[15/05/2022 12:03:22] --> [TIROLINA] El niño N00049 ha entrado a la cola de espera
+[15/05/2022 12:03:23] --> [TIROLINA] El niño N00000 se está tirando en la tirolina
+[15/05/2022 12:03:26] --> [TIROLINA] El niño N00000 se esta bajando de la tirolina
+[15/05/2022 12:03:26] --> El monitor M1 ha limpiado la bandeja 1
+[15/05/2022 12:03:27] --> [TIROLINA] El niño N00000 ha salido de la tirolina
+[15/05/2022 12:03:27] --> [SOGA] El monitor de soga M3 está preparando al niño N00001
+[15/05/2022 12:03:27] --> [ZONA COMUN] El niño N00000 ha entrado a la zona comun
+[15/05/2022 12:03:28] --> [TIROLINA] El niño N00001 se está tirando en la tirolina
+[15/05/2022 12:03:29] --> [SOGA] El equipo ganador es el EQUIPO B, compuesto por: [N00005, N00006, N00014, N00016, N00017]
+[15/05/2022 12:03:29] --> [SOGA] El niño N00019 ha entrado a la soga
+[15/05/2022 12:03:29] --> [SOGA] El niño N00022 ha entrado a la soga
+[15/05/2022 12:03:29] --> [SOGA] El niño N00023 ha entrado a la soga
+[15/05/2022 12:03:29] --> [SOGA] El niño N00024 ha entrado a la soga
+[15/05/2022 12:03:29] --> [SOGA] El niño N00026 ha entrado a la soga
+[15/05/2022 12:03:29] --> [SOGA] El niño N00028 ha entrado a la soga
+[15/05/2022 12:03:29] --> [SOGA] El niño N00029 ha entrado a la soga
+[15/05/2022 12:03:29] --> [SOGA] El niño N00030 ha entrado a la soga
+[15/05/2022 12:03:29] --> [SOGA] El niño N00032 ha entrado a la soga
+[15/05/2022 12:03:29] --> [SOGA] El niño N00033 ha entrado a la soga
+[15/05/2022 12:03:29] --> [TIROLINA] El niño N00034 ha entrado a la cola de espera
+[15/05/2022 12:03:29] --> [SOGA] El niño N00002 ha salido de la soga
+[15/05/2022 12:03:29] --> [TIROLINA] El niño N00037 ha entrado a la cola de espera
+[15/05/2022 12:03:29] --> [ZONA COMUN] El niño N00002 ha entrado a la zona comun
+[15/05/2022 12:03:29] --> [SOGA] El niño N00005 ha salido de la soga
+[15/05/2022 12:03:29] --> [TIROLINA] El niño N00038 ha entrado a la cola de espera
+[15/05/2022 12:03:29] --> [ZONA COMUN] El niño N00005 ha entrado a la zona comun
+[15/05/2022 12:03:29] --> [SOGA] El niño N00006 ha salido de la soga
+[15/05/2022 12:03:29] --> [TIROLINA] El niño N00040 ha entrado a la cola de espera
+[15/05/2022 12:03:29] --> [SOGA] El niño N00007 ha salido de la soga
+[15/05/2022 12:03:29] --> [ZONA COMUN] El niño N00006 ha entrado a la zona comun
+[15/05/2022 12:03:30] --> [SOGA] El niño N00008 ha salido de la soga
+[15/05/2022 12:03:30] --> [TIROLINA] El niño N00041 ha entrado a la cola de espera
+[15/05/2022 12:03:30] --> [SOGA] El niño N00011 ha salido de la soga
+[15/05/2022 12:03:30] --> [ZONA COMUN] El niño N00007 ha entrado a la zona comun
+[15/05/2022 12:03:30] --> [SOGA] El niño N00013 ha salido de la soga
+[15/05/2022 12:03:30] --> [TIROLINA] El niño N00043 ha entrado a la cola de espera
+[15/05/2022 12:03:30] --> [SOGA] El niño N00014 ha salido de la soga
+[15/05/2022 12:03:30] --> [ZONA COMUN] El niño N00008 ha entrado a la zona comun
+[15/05/2022 12:03:30] --> [SOGA] El niño N00016 ha salido de la soga
+[15/05/2022 12:03:30] --> [TIROLINA] El niño N00045 ha entrado a la cola de espera
+[15/05/2022 12:03:30] --> [SOGA] El niño N00017 ha salido de la soga
+[15/05/2022 12:03:30] --> [ZONA COMUN] El niño N00011 ha entrado a la zona comun
+[15/05/2022 12:03:30] --> [SOGA] El monitor de soga M0 ha asignado al niño N00019 el equipo A
+[15/05/2022 12:03:30] --> [TIROLINA] El niño N00047 ha entrado a la cola de espera
+[15/05/2022 12:03:30] --> [SOGA] El monitor de soga M0 ha asignado al niño N00022 el equipo A
+[15/05/2022 12:03:30] --> [ZONA COMUN] El niño N00013 ha entrado a la zona comun
+[15/05/2022 12:03:30] --> [SOGA] El monitor de soga M0 ha asignado al niño N00023 el equipo A
+[15/05/2022 12:03:30] --> [ZONA COMUN] El niño N00014 ha entrado a la zona comun
+[15/05/2022 12:03:30] --> [SOGA] El monitor de soga M0 ha asignado al niño N00024 el equipo B
+[15/05/2022 12:03:30] --> [ZONA COMUN] El niño N00016 ha entrado a la zona comun
+[15/05/2022 12:03:30] --> [SOGA] El monitor de soga M0 ha asignado al niño N00026 el equipo B
+[15/05/2022 12:03:30] --> [ZONA COMUN] El niño N00017 ha entrado a la zona comun
+[15/05/2022 12:03:30] --> [SOGA] El monitor de soga M0 ha asignado al niño N00028 el equipo B
+[15/05/2022 12:03:30] --> [SOGA] El monitor de soga M0 ha asignado al niño N00029 el equipo A
+[15/05/2022 12:03:30] --> [SOGA] El monitor de soga M0 ha asignado al niño N00030 el equipo A
+[15/05/2022 12:03:30] --> [SOGA] El monitor de soga M0 ha asignado al niño N00032 el equipo B
+[15/05/2022 12:03:30] --> [SOGA] El monitor de soga M0 ha asignado al niño N00033 el equipo B
+[15/05/2022 12:03:30] --> El monitor M1 ha limpiado la bandeja 3
+[15/05/2022 12:03:30] --> El monitor M2 ha limpiado la bandeja 2
+[15/05/2022 12:03:31] --> [TIROLINA] El niño N00001 se esta bajando de la tirolina
+[15/05/2022 12:03:31] --> [TIROLINA] El niño N00001 ha salido de la tirolina
+[15/05/2022 12:03:31] --> [ZONA COMUN] El niño N00001 ha entrado a la zona comun
+[15/05/2022 12:03:31] --> [SOGA] El monitor de soga M3 está preparando al niño N00003
+[15/05/2022 12:03:31] --> [ZONA COMUN] El niño N00000 ha salido de la zona comun
+[15/05/2022 12:03:31] --> [TIROLINA] El niño N00000 ha entrado a la cola de espera
+[15/05/2022 12:03:32] --> [ZONA COMUN] El niño N00005 ha salido de la zona comun
+[15/05/2022 12:03:32] --> [TIROLINA] El niño N00005 ha entrado a la cola de espera
+[15/05/2022 12:03:32] --> [TIROLINA] El niño N00003 se está tirando en la tirolina
+[15/05/2022 12:03:33] --> [ZONA COMUN] El niño N00013 ha salido de la zona comun
+[15/05/2022 12:03:33] --> [TIROLINA] El niño N00013 ha entrado a la cola de espera
+[15/05/2022 12:03:33] --> [ZONA COMUN] El niño N00007 ha salido de la zona comun
+[15/05/2022 12:03:33] --> [TIROLINA] El niño N00007 ha entrado a la cola de espera
+[15/05/2022 12:03:34] --> [ZONA COMUN] El niño N00016 ha salido de la zona comun
+[15/05/2022 12:03:34] --> [ZONA COMUN] El niño N00006 ha salido de la zona comun
+[15/05/2022 12:03:34] --> [ZONA COMUN] El niño N00001 ha salido de la zona comun
+[15/05/2022 12:03:34] --> [TIROLINA] El niño N00001 ha entrado a la cola de espera
+[15/05/2022 12:03:34] --> [ZONA COMUN] El niño N00011 ha salido de la zona comun
+[15/05/2022 12:03:35] --> [ZONA COMUN] El niño N00002 ha salido de la zona comun
+[15/05/2022 12:03:35] --> [TIROLINA] El niño N00002 ha entrado a la cola de espera
+[15/05/2022 12:03:35] --> [ZONA COMUN] El niño N00014 ha salido de la zona comun
+[15/05/2022 12:03:35] --> [TIROLINA] El niño N00014 ha entrado a la cola de espera
+[15/05/2022 12:03:35] --> [ZONA COMUN] El niño N00008 ha salido de la zona comun
+[15/05/2022 12:03:35] --> [ZONA COMUN] El niño N00017 ha salido de la zona comun
+[15/05/2022 12:03:35] --> [TIROLINA] El niño N00017 ha entrado a la cola de espera
+[15/05/2022 12:03:35] --> [TIROLINA] El niño N00003 se esta bajando de la tirolina
+[15/05/2022 12:03:36] --> [TIROLINA] El niño N00003 ha salido de la tirolina
+[15/05/2022 12:03:36] --> [ZONA COMUN] El niño N00003 ha entrado a la zona comun
+[15/05/2022 12:03:36] --> [SOGA] El monitor de soga M3 está preparando al niño N00004
+[15/05/2022 12:03:36] --> El monitor M1 ha limpiado la bandeja 4
+[15/05/2022 12:03:37] --> [SOGA] El equipo ganador es el EQUIPO A, compuesto por: [N00019, N00022, N00023, N00029, N00030]
+[15/05/2022 12:03:37] --> [SOGA] El niño N00016 ha entrado a la soga
+[15/05/2022 12:03:37] --> [SOGA] El niño N00006 ha entrado a la soga
+[15/05/2022 12:03:37] --> [SOGA] El niño N00011 ha entrado a la soga
+[15/05/2022 12:03:37] --> [SOGA] El niño N00008 ha entrado a la soga
+[15/05/2022 12:03:37] --> [SOGA] El niño N00019 ha salido de la soga
+[15/05/2022 12:03:37] --> [SOGA] El niño N00022 ha salido de la soga
+[15/05/2022 12:03:37] --> [ZONA COMUN] El niño N00019 ha entrado a la zona comun
+[15/05/2022 12:03:37] --> [SOGA] El niño N00023 ha salido de la soga
+[15/05/2022 12:03:37] --> [ZONA COMUN] El niño N00022 ha entrado a la zona comun
+[15/05/2022 12:03:37] --> [SOGA] El niño N00024 ha salido de la soga
+[15/05/2022 12:03:37] --> [ZONA COMUN] El niño N00023 ha entrado a la zona comun
+[15/05/2022 12:03:37] --> [SOGA] El niño N00026 ha salido de la soga
+[15/05/2022 12:03:37] --> [ZONA COMUN] El niño N00024 ha entrado a la zona comun
+[15/05/2022 12:03:37] --> [SOGA] El niño N00028 ha salido de la soga
+[15/05/2022 12:03:37] --> [ZONA COMUN] El niño N00026 ha entrado a la zona comun
+[15/05/2022 12:03:37] --> El monitor M2 ha limpiado la bandeja 5
+[15/05/2022 12:03:37] --> [SOGA] El niño N00030 ha salido de la soga
+[15/05/2022 12:03:37] --> [ZONA COMUN] El niño N00028 ha entrado a la zona comun
+[15/05/2022 12:03:37] --> [SOGA] El niño N00032 ha salido de la soga
+[15/05/2022 12:03:37] --> [ZONA COMUN] El niño N00030 ha entrado a la zona comun
+[15/05/2022 12:03:37] --> [SOGA] El niño N00033 ha salido de la soga
+[15/05/2022 12:03:37] --> [ZONA COMUN] El niño N00032 ha entrado a la zona comun
+[15/05/2022 12:03:37] --> [SOGA] El niño N00029 ha salido de la soga
+[15/05/2022 12:03:37] --> [ZONA COMUN] El niño N00033 ha entrado a la zona comun
+[15/05/2022 12:03:37] --> [ZONA COMUN] El niño N00029 ha entrado a la zona comun
+[15/05/2022 12:03:37] --> [TIROLINA] El niño N00004 se está tirando en la tirolina
+[15/05/2022 12:03:39] --> [ZONA COMUN] El niño N00003 ha salido de la zona comun
+[15/05/2022 12:03:39] --> [SOGA] El niño N00003 ha entrado a la soga
+[15/05/2022 12:03:39] --> [ZONA COMUN] El niño N00023 ha salido de la zona comun
+[15/05/2022 12:03:39] --> [SOGA] El niño N00023 ha entrado a la soga
+[15/05/2022 12:03:39] --> [ZONA COMUN] El niño N00019 ha salido de la zona comun
+[15/05/2022 12:03:39] --> [TIROLINA] El niño N00019 ha entrado a la cola de espera
+[15/05/2022 12:03:39] --> [ZONA COMUN] El niño N00024 ha salido de la zona comun
+[15/05/2022 12:03:39] --> [SOGA] El niño N00024 ha entrado a la soga
+[15/05/2022 12:03:39] --> [ZONA COMUN] El niño N00029 ha salido de la zona comun
+[15/05/2022 12:03:39] --> [TIROLINA] El niño N00029 ha entrado a la cola de espera
+[15/05/2022 12:03:39] --> [ZONA COMUN] El niño N00032 ha salido de la zona comun
+[15/05/2022 12:03:39] --> [SOGA] El niño N00032 ha entrado a la soga
+[15/05/2022 12:03:40] --> El monitor M2 ha limpiado la bandeja 7
+[15/05/2022 12:03:40] --> [TIROLINA] El niño N00004 se esta bajando de la tirolina
+[15/05/2022 12:03:40] --> [ZONA COMUN] El niño N00033 ha salido de la zona comun
+[15/05/2022 12:03:40] --> [TIROLINA] El niño N00033 ha entrado a la cola de espera
+[15/05/2022 12:03:40] --> [TIROLINA] El niño N00004 ha salido de la tirolina
+[15/05/2022 12:03:40] --> [ZONA COMUN] El niño N00004 ha entrado a la zona comun
+[15/05/2022 12:03:40] --> [SOGA] El monitor de soga M3 está preparando al niño N00009
+[15/05/2022 12:03:40] --> [ZONA COMUN] El niño N00022 ha salido de la zona comun
+[15/05/2022 12:03:40] --> [SOGA] El niño N00022 ha entrado a la soga
+[15/05/2022 12:03:41] --> [ZONA COMUN] El niño N00028 ha salido de la zona comun
+[15/05/2022 12:03:41] --> [SOGA] El niño N00028 ha entrado a la soga
+[15/05/2022 12:03:41] --> [SOGA] El monitor de soga M0 ha asignado al niño N00016 el equipo A
+[15/05/2022 12:03:41] --> [SOGA] El monitor de soga M0 ha asignado al niño N00006 el equipo A
+[15/05/2022 12:03:41] --> [SOGA] El monitor de soga M0 ha asignado al niño N00011 el equipo B
+[15/05/2022 12:03:41] --> [SOGA] El monitor de soga M0 ha asignado al niño N00008 el equipo A
+[15/05/2022 12:03:41] --> [SOGA] El monitor de soga M0 ha asignado al niño N00003 el equipo B
+[15/05/2022 12:03:41] --> [SOGA] El monitor de soga M0 ha asignado al niño N00023 el equipo B
+[15/05/2022 12:03:41] --> [SOGA] El monitor de soga M0 ha asignado al niño N00024 el equipo A
+[15/05/2022 12:03:41] --> [SOGA] El monitor de soga M0 ha asignado al niño N00032 el equipo B
+[15/05/2022 12:03:41] --> [SOGA] El monitor de soga M0 ha asignado al niño N00022 el equipo B
+[15/05/2022 12:03:41] --> [SOGA] El monitor de soga M0 ha asignado al niño N00028 el equipo A
+[15/05/2022 12:03:41] --> [TIROLINA] El niño N00009 se está tirando en la tirolina
+[15/05/2022 12:03:42] --> El monitor M1 ha limpiado la bandeja 6
+[15/05/2022 12:03:43] --> El monitor M2 ha limpiado la bandeja 8
+[15/05/2022 12:03:44] --> [TIROLINA] El niño N00009 se esta bajando de la tirolina
+[15/05/2022 12:03:45] --> [TIROLINA] El niño N00009 ha salido de la tirolina
+[15/05/2022 12:03:48] --> [SOGA] El equipo ganador es el EQUIPO A, compuesto por: [N00016, N00006, N00008, N00024, N00028]
+[15/05/2022 12:03:52] --> [ZONA COMUN] El niño N00030 ha salido de la zona comun
+[15/05/2022 12:03:52] --> [SOGA] El monitor de soga M3 está preparando al niño N00010
+[15/05/2022 12:03:52] --> [SOGA] El niño N00016 ha salido de la soga
+[15/05/2022 12:03:52] --> [ZONA COMUN] El niño N00026 ha salido de la zona comun
+[15/05/2022 12:03:52] --> [TIROLINA] El niño N00030 ha entrado a la cola de espera
+[15/05/2022 12:03:52] --> [ZONA COMUN] El niño N00009 ha entrado a la zona comun
+[15/05/2022 12:03:52] --> [SOGA] El niño N00006 ha salido de la soga
+[15/05/2022 12:03:52] --> [ZONA COMUN] El niño N00004 ha salido de la zona comun
+[15/05/2022 12:03:52] --> [TIROLINA] El niño N00026 ha entrado a la cola de espera
+[15/05/2022 12:03:52] --> [ZONA COMUN] El niño N00016 ha entrado a la zona comun
+[15/05/2022 12:03:52] --> [SOGA] El niño N00011 ha salido de la soga
+[15/05/2022 12:03:52] --> [ZONA COMUN] El niño N00006 ha entrado a la zona comun
+[15/05/2022 12:03:52] --> [TIROLINA] El niño N00004 ha entrado a la cola de espera
+[15/05/2022 12:03:52] --> [ZONA COMUN] El niño N00011 ha entrado a la zona comun
+[15/05/2022 12:03:52] --> [SOGA] El niño N00008 ha salido de la soga
+[15/05/2022 12:03:52] --> [ZONA COMUN] El niño N00008 ha entrado a la zona comun
+[15/05/2022 12:03:52] --> [SOGA] El niño N00003 ha salido de la soga
+[15/05/2022 12:03:52] --> [ZONA COMUN] El niño N00003 ha entrado a la zona comun
+[15/05/2022 12:03:52] --> [SOGA] El niño N00023 ha salido de la soga
+[15/05/2022 12:03:52] --> [SOGA] El niño N00024 ha salido de la soga
+[15/05/2022 12:03:52] --> [ZONA COMUN] El niño N00023 ha entrado a la zona comun
+[15/05/2022 12:03:52] --> [SOGA] El niño N00032 ha salido de la soga
+[15/05/2022 12:03:52] --> [ZONA COMUN] El niño N00024 ha entrado a la zona comun
+[15/05/2022 12:03:52] --> [SOGA] El niño N00022 ha salido de la soga
+[15/05/2022 12:03:52] --> [ZONA COMUN] El niño N00032 ha entrado a la zona comun
+[15/05/2022 12:03:52] --> [SOGA] El niño N00028 ha salido de la soga
+[15/05/2022 12:03:52] --> [ZONA COMUN] El niño N00022 ha entrado a la zona comun
+[15/05/2022 12:03:52] --> [ZONA COMUN] El niño N00028 ha entrado a la zona comun
+[15/05/2022 12:03:53] --> [TIROLINA] El niño N00010 se está tirando en la tirolina
+[15/05/2022 12:03:54] --> [ZONA COMUN] El niño N00028 ha salido de la zona comun
+[15/05/2022 12:03:54] --> [SOGA] El niño N00028 ha entrado a la soga
+[15/05/2022 12:03:55] --> [ZONA COMUN] El niño N00009 ha salido de la zona comun
+[15/05/2022 12:03:55] --> [SOGA] El niño N00009 ha entrado a la soga
+[15/05/2022 12:03:55] --> [ZONA COMUN] El niño N00006 ha salido de la zona comun
+[15/05/2022 12:03:55] --> [TIROLINA] El niño N00006 ha entrado a la cola de espera
+[15/05/2022 12:03:55] --> El monitor M1 ha limpiado la bandeja 9
+[15/05/2022 12:03:56] --> [TIROLINA] El niño N00010 se esta bajando de la tirolina
+[15/05/2022 12:03:56] --> [ZONA COMUN] El niño N00022 ha salido de la zona comun
+[15/05/2022 12:03:56] --> [SOGA] El niño N00022 ha entrado a la soga
+[15/05/2022 12:03:56] --> [ZONA COMUN] El niño N00003 ha salido de la zona comun
+[15/05/2022 12:03:56] --> [SOGA] El niño N00003 ha entrado a la soga
+[15/05/2022 12:03:56] --> [TIROLINA] El niño N00010 ha salido de la tirolina
+[15/05/2022 12:03:56] --> [ZONA COMUN] El niño N00010 ha entrado a la zona comun
+[15/05/2022 12:03:56] --> [SOGA] El monitor de soga M3 está preparando al niño N00012
+[15/05/2022 12:03:56] --> [ZONA COMUN] El niño N00016 ha salido de la zona comun
+[15/05/2022 12:03:56] --> [TIROLINA] El niño N00016 ha entrado a la cola de espera
+[15/05/2022 12:03:56] --> [ZONA COMUN] El niño N00032 ha salido de la zona comun
+[15/05/2022 12:03:56] --> [SOGA] El niño N00032 ha entrado a la soga
+[15/05/2022 12:03:57] --> [ZONA COMUN] El niño N00023 ha salido de la zona comun
+[15/05/2022 12:03:57] --> [TIROLINA] El niño N00023 ha entrado a la cola de espera
+[15/05/2022 12:03:57] --> [ZONA COMUN] El niño N00024 ha salido de la zona comun
+[15/05/2022 12:03:57] --> [SOGA] El niño N00024 ha entrado a la soga
+[15/05/2022 12:03:57] --> [ZONA COMUN] El niño N00008 ha salido de la zona comun
+[15/05/2022 12:03:57] --> [SOGA] El niño N00008 ha entrado a la soga
+[15/05/2022 12:03:57] --> [TIROLINA] El niño N00012 se está tirando en la tirolina
+[15/05/2022 12:03:57] --> [ZONA COMUN] El niño N00011 ha salido de la zona comun
+[15/05/2022 12:03:57] --> [SOGA] El niño N00011 ha entrado a la soga
+[15/05/2022 12:03:58] --> El monitor M2 ha limpiado la bandeja 10
+[15/05/2022 12:04:00] --> [TIROLINA] El niño N00012 se esta bajando de la tirolina
+[15/05/2022 12:04:01] --> [TIROLINA] El niño N00012 ha salido de la tirolina
+[15/05/2022 12:04:03] --> El monitor M1 ha limpiado la bandeja 11
+[15/05/2022 12:04:06] --> [ZONA COMUN] El niño N00012 ha entrado a la zona comun
+[15/05/2022 12:04:06] --> [SOGA] El monitor de soga M3 está preparando al niño N00015
+[15/05/2022 12:04:06] --> [ZONA COMUN] El niño N00010 ha salido de la zona comun
+[15/05/2022 12:04:06] --> [TIROLINA] El niño N00010 ha entrado a la cola de espera
+[15/05/2022 12:04:07] --> [TIROLINA] El niño N00015 se está tirando en la tirolina
+[15/05/2022 12:04:10] --> El monitor M1 ha limpiado la bandeja 13
+[15/05/2022 12:04:10] --> [TIROLINA] El niño N00015 se esta bajando de la tirolina
+[15/05/2022 12:04:10] --> [TIROLINA] El niño N00015 ha salido de la tirolina
+[15/05/2022 12:04:10] --> [ZONA COMUN] El niño N00015 ha entrado a la zona comun
+[15/05/2022 12:04:10] --> [SOGA] El monitor de soga M3 está preparando al niño N00018
+[15/05/2022 12:04:10] --> [ZONA COMUN] El niño N00012 ha salido de la zona comun
+[15/05/2022 12:04:10] --> [SOGA] El niño N00012 ha entrado a la soga
+[15/05/2022 12:04:11] --> El monitor M2 ha limpiado la bandeja 12
+[15/05/2022 12:04:11] --> [TIROLINA] El niño N00018 se está tirando en la tirolina
+[15/05/2022 12:04:14] --> El monitor M2 ha limpiado la bandeja 15
+[15/05/2022 12:04:14] --> [TIROLINA] El niño N00018 se esta bajando de la tirolina
+[15/05/2022 12:04:15] --> [ZONA COMUN] El niño N00015 ha salido de la zona comun
+[15/05/2022 12:04:15] --> [TIROLINA] El niño N00015 ha entrado a la cola de espera
+[15/05/2022 12:04:15] --> [TIROLINA] El niño N00018 ha salido de la tirolina
+[15/05/2022 12:04:15] --> [ZONA COMUN] El niño N00018 ha entrado a la zona comun
+[15/05/2022 12:04:15] --> [SOGA] El monitor de soga M3 está preparando al niño N00020
+[15/05/2022 12:04:15] --> El monitor M1 ha limpiado la bandeja 14
+[15/05/2022 12:04:16] --> [TIROLINA] El niño N00020 se está tirando en la tirolina
+[15/05/2022 12:04:18] --> El monitor M2 ha limpiado la bandeja 16
+[15/05/2022 12:04:19] --> [TIROLINA] El niño N00020 se esta bajando de la tirolina
+[15/05/2022 12:04:19] --> [TIROLINA] El niño N00020 ha salido de la tirolina
+[15/05/2022 12:04:19] --> [ZONA COMUN] El niño N00020 ha entrado a la zona comun
+[15/05/2022 12:04:19] --> [ZONA COMÚN] El monitor M3 ha entrado a la zona común
+[15/05/2022 12:04:20] --> [ZONA COMUN] El niño N00018 ha salido de la zona comun
+[15/05/2022 12:04:20] --> [TIROLINA] El niño N00018 ha entrado a la cola de espera
+[15/05/2022 12:04:21] --> El monitor M1 ha limpiado la bandeja 17
+[15/05/2022 12:04:21] --> [ZONA COMÚN] El monitor M3 ha salido de la zona común
+[15/05/2022 12:04:21] --> [TIROLINA] El monitor M3 ha entrado a la tirolina
+[15/05/2022 12:04:21] --> [SOGA] El monitor de soga M3 está preparando al niño N00021
+[15/05/2022 12:04:22] --> El monitor M2 ha limpiado la bandeja 18
+[15/05/2022 12:04:22] --> [TIROLINA] El niño N00021 se está tirando en la tirolina
+[15/05/2022 12:04:24] --> [ZONA COMUN] El niño N00020 ha salido de la zona comun
+[15/05/2022 12:04:24] --> [TIROLINA] El niño N00020 ha entrado a la cola de espera
+[15/05/2022 12:04:25] --> [TIROLINA] El niño N00021 se esta bajando de la tirolina
+[15/05/2022 12:04:26] --> [TIROLINA] El niño N00021 ha salido de la tirolina
+[15/05/2022 12:04:26] --> [ZONA COMUN] El niño N00021 ha entrado a la zona comun
+[15/05/2022 12:04:26] --> [SOGA] El monitor de soga M3 está preparando al niño N00025
+[15/05/2022 12:04:26] --> El monitor M2 ha limpiado la bandeja 20
+[15/05/2022 12:04:26] --> [MERIENDA] El monitorM2 ha salido del merendero
+[15/05/2022 12:04:26] --> [ZONA COMÚN] El monitor M2 ha entrado a la zona común
+[15/05/2022 12:04:27] --> [TIROLINA] El niño N00025 se está tirando en la tirolina
+[15/05/2022 12:04:28] --> El monitor M1 ha limpiado la bandeja 19
+[15/05/2022 12:04:28] --> [MERIENDA] El monitorM1 ha salido del merendero
+[15/05/2022 12:04:28] --> [ZONA COMÚN] El monitor M1 ha entrado a la zona común
+[15/05/2022 12:04:28] --> [ZONA COMÚN] El monitor M2 ha salido de la zona común
+[15/05/2022 12:04:29] --> [ZONA COMUN] El niño N00021 ha salido de la zona comun
+[15/05/2022 12:04:29] --> [SOGA] El niño N00021 ha entrado a la soga
+[15/05/2022 12:04:29] --> [SOGA] El monitor de soga M0 ha asignado al niño N00028 el equipo A
+[15/05/2022 12:04:29] --> [SOGA] El monitor de soga M0 ha asignado al niño N00009 el equipo B
+[15/05/2022 12:04:29] --> [SOGA] El monitor de soga M0 ha asignado al niño N00022 el equipo A
+[15/05/2022 12:04:29] --> [SOGA] El monitor de soga M0 ha asignado al niño N00003 el equipo A
+[15/05/2022 12:04:29] --> [SOGA] El monitor de soga M0 ha asignado al niño N00032 el equipo B
+[15/05/2022 12:04:29] --> [SOGA] El monitor de soga M0 ha asignado al niño N00024 el equipo B
+[15/05/2022 12:04:29] --> [SOGA] El monitor de soga M0 ha asignado al niño N00008 el equipo A
+[15/05/2022 12:04:29] --> [SOGA] El monitor de soga M0 ha asignado al niño N00011 el equipo B
+[15/05/2022 12:04:29] --> [SOGA] El monitor de soga M0 ha asignado al niño N00012 el equipo B
+[15/05/2022 12:04:29] --> [SOGA] El monitor de soga M0 ha asignado al niño N00021 el equipo A
+[15/05/2022 12:04:30] --> [TIROLINA] El niño N00025 se esta bajando de la tirolina
+[15/05/2022 12:04:30] --> [TIROLINA] El niño N00025 ha salido de la tirolina
+[15/05/2022 12:04:30] --> [ZONA COMUN] El niño N00025 ha entrado a la zona comun
+[15/05/2022 12:04:30] --> [SOGA] El monitor de soga M3 está preparando al niño N00027
+[15/05/2022 12:04:30] --> [ZONA COMÚN] El monitor M1 ha salido de la zona común
+[15/05/2022 12:04:31] --> [TIROLINA] El niño N00027 se está tirando en la tirolina
+[15/05/2022 12:04:33] --> El monitor M2 ha limpiado la bandeja 21
+[15/05/2022 12:04:34] --> [TIROLINA] El niño N00027 se esta bajando de la tirolina
+[15/05/2022 12:04:35] --> [TIROLINA] El niño N00027 ha salido de la tirolina
+[15/05/2022 12:04:35] --> [ZONA COMUN] El niño N00027 ha entrado a la zona comun
+[15/05/2022 12:04:35] --> [SOGA] El monitor de soga M3 está preparando al niño N00031
+[15/05/2022 12:04:35] --> [ZONA COMUN] El niño N00025 ha salido de la zona comun
+[15/05/2022 12:04:36] --> [TIROLINA] El niño N00031 se está tirando en la tirolina
+[15/05/2022 12:04:36] --> El monitor M1 ha limpiado la bandeja 22
+[15/05/2022 12:04:36] --> [SOGA] El equipo ganador es el EQUIPO A, compuesto por: [N00028, N00022, N00003, N00008, N00021]
+[15/05/2022 12:04:36] --> [SOGA] El niño N00025 ha entrado a la soga
+[15/05/2022 12:04:36] --> [SOGA] El niño N00028 ha salido de la soga
+[15/05/2022 12:04:36] --> [ZONA COMUN] El niño N00028 ha entrado a la zona comun
+[15/05/2022 12:04:36] --> [SOGA] El niño N00009 ha salido de la soga
+[15/05/2022 12:04:36] --> [ZONA COMUN] El niño N00009 ha entrado a la zona comun
+[15/05/2022 12:04:36] --> [SOGA] El niño N00022 ha salido de la soga
+[15/05/2022 12:04:36] --> [ZONA COMUN] El niño N00022 ha entrado a la zona comun
+[15/05/2022 12:04:36] --> [SOGA] El niño N00003 ha salido de la soga
+[15/05/2022 12:04:36] --> [ZONA COMUN] El niño N00003 ha entrado a la zona comun
+[15/05/2022 12:04:36] --> [SOGA] El niño N00032 ha salido de la soga
+[15/05/2022 12:04:36] --> [ZONA COMUN] El niño N00032 ha entrado a la zona comun
+[15/05/2022 12:04:36] --> [SOGA] El niño N00024 ha salido de la soga
+[15/05/2022 12:04:36] --> [SOGA] El niño N00008 ha salido de la soga
+[15/05/2022 12:04:36] --> [ZONA COMUN] El niño N00024 ha entrado a la zona comun
+[15/05/2022 12:04:36] --> [SOGA] El niño N00011 ha salido de la soga
+[15/05/2022 12:04:36] --> [ZONA COMUN] El niño N00008 ha entrado a la zona comun
+[15/05/2022 12:04:36] --> [SOGA] El niño N00012 ha salido de la soga
+[15/05/2022 12:04:36] --> [ZONA COMUN] El niño N00011 ha entrado a la zona comun
+[15/05/2022 12:04:37] --> [SOGA] El niño N00021 ha salido de la soga
+[15/05/2022 12:04:37] --> [ZONA COMUN] El niño N00012 ha entrado a la zona comun
+[15/05/2022 12:04:37] --> [ZONA COMUN] El niño N00021 ha entrado a la zona comun
+[15/05/2022 12:04:38] --> [ZONA COMUN] El niño N00027 ha salido de la zona comun
+[15/05/2022 12:04:38] --> [TIROLINA] El niño N00027 ha entrado a la cola de espera
+[15/05/2022 12:04:39] --> [ZONA COMUN] El niño N00008 ha salido de la zona comun
+[15/05/2022 12:04:39] --> [TIROLINA] El niño N00008 ha entrado a la cola de espera
+[15/05/2022 12:04:39] --> [ZONA COMUN] El niño N00011 ha salido de la zona comun
+[15/05/2022 12:04:39] --> [SOGA] El niño N00011 ha entrado a la soga
+[15/05/2022 12:04:39] --> [ZONA COMUN] El niño N00022 ha salido de la zona comun
+[15/05/2022 12:04:39] --> [MERIENDA] El niño N00022 ha entrado al merendero
+[15/05/2022 12:04:39] --> [MERIENDA] El niño N00022 está comiendo su merienda en la bandeja 1
+[15/05/2022 12:04:39] --> [TIROLINA] El niño N00031 se esta bajando de la tirolina
+[15/05/2022 12:04:39] --> El monitor M2 ha limpiado la bandeja 23
+[15/05/2022 12:04:39] --> [TIROLINA] El niño N00031 ha salido de la tirolina
+[15/05/2022 12:04:39] --> [ZONA COMUN] El niño N00031 ha entrado a la zona comun
+[15/05/2022 12:04:39] --> [SOGA] El monitor de soga M3 está preparando al niño N00035
+[15/05/2022 12:04:39] --> [ZONA COMUN] El niño N00032 ha salido de la zona comun
+[15/05/2022 12:04:39] --> [MERIENDA] El niño N00032 ha entrado al merendero
+[15/05/2022 12:04:39] --> [MERIENDA] El niño N00032 está comiendo su merienda en la bandeja 3
+[15/05/2022 12:04:39] --> [ZONA COMUN] El niño N00009 ha salido de la zona comun
+[15/05/2022 12:04:39] --> [SOGA] El niño N00009 ha entrado a la soga
+[15/05/2022 12:04:40] --> El monitor M1 ha limpiado la bandeja 24
+[15/05/2022 12:04:40] --> [ZONA COMUN] El niño N00012 ha salido de la zona comun
+[15/05/2022 12:04:40] --> [TIROLINA] El niño N00012 ha entrado a la cola de espera
+[15/05/2022 12:04:40] --> [TIROLINA] El niño N00035 se está tirando en la tirolina
+[15/05/2022 12:04:41] --> [ZONA COMUN] El niño N00003 ha salido de la zona comun
+[15/05/2022 12:04:41] --> [MERIENDA] El niño N00003 ha entrado al merendero
+[15/05/2022 12:04:41] --> [MERIENDA] El niño N00003 está comiendo su merienda en la bandeja 2
+[15/05/2022 12:04:41] --> [ZONA COMUN] El niño N00021 ha salido de la zona comun
+[15/05/2022 12:04:41] --> [SOGA] El niño N00021 ha entrado a la soga
+[15/05/2022 12:04:41] --> [ZONA COMUN] El niño N00024 ha salido de la zona comun
+[15/05/2022 12:04:41] --> [TIROLINA] El niño N00024 ha entrado a la cola de espera
+[15/05/2022 12:04:42] --> [ZONA COMUN] El niño N00028 ha salido de la zona comun
+[15/05/2022 12:04:42] --> [SOGA] El niño N00028 ha entrado a la soga
+[15/05/2022 12:04:43] --> [TIROLINA] El niño N00035 se esta bajando de la tirolina
+[15/05/2022 12:04:44] --> El monitor M2 ha limpiado la bandeja 25
+[15/05/2022 12:04:44] --> [TIROLINA] El niño N00035 ha salido de la tirolina
+[15/05/2022 12:04:44] --> [ZONA COMUN] El niño N00035 ha entrado a la zona comun
+[15/05/2022 12:04:44] --> [SOGA] El monitor de soga M3 está preparando al niño N00036
+[15/05/2022 12:04:45] --> [ZONA COMUN] El niño N00031 ha salido de la zona comun
+[15/05/2022 12:04:45] --> [SOGA] El niño N00031 ha entrado a la soga
+[15/05/2022 12:04:45] --> [TIROLINA] El niño N00036 se está tirando en la tirolina
+[15/05/2022 12:04:46] --> [MERIENDA] El niño N00022 ha salido del merendero
+[15/05/2022 12:04:46] --> [ZONA COMUN] El niño N00022 ha entrado a la zona comun
+[15/05/2022 12:04:46] --> [MERIENDA] El niño N00032 ha salido del merendero
+[15/05/2022 12:04:46] --> [ZONA COMUN] El niño N00032 ha entrado a la zona comun
+[15/05/2022 12:04:48] --> [MERIENDA] El niño N00003 ha salido del merendero
+[15/05/2022 12:04:48] --> [ZONA COMUN] El niño N00003 ha entrado a la zona comun
+[15/05/2022 12:04:48] --> [TIROLINA] El niño N00036 se esta bajando de la tirolina
+[15/05/2022 12:04:48] --> [ZONA COMUN] El niño N00035 ha salido de la zona comun
+[15/05/2022 12:04:48] --> [TIROLINA] El niño N00035 ha entrado a la cola de espera
+[15/05/2022 12:04:48] --> [TIROLINA] El niño N00036 ha salido de la tirolina
+[15/05/2022 12:04:48] --> [ZONA COMUN] El niño N00036 ha entrado a la zona comun
+[15/05/2022 12:04:48] --> [SOGA] El monitor de soga M3 está preparando al niño N00039
+[15/05/2022 12:04:49] --> [ZONA COMUN] El niño N00022 ha salido de la zona comun
+[15/05/2022 12:04:49] --> [TIROLINA] El niño N00022 ha entrado a la cola de espera
+[15/05/2022 12:04:49] --> [TIROLINA] El niño N00039 se está tirando en la tirolina
+[15/05/2022 12:04:50] --> [ZONA COMUN] El niño N00032 ha salido de la zona comun
+[15/05/2022 12:04:50] --> [SOGA] El niño N00032 ha entrado a la soga
+[15/05/2022 12:04:50] --> El monitor M1 ha limpiado la bandeja 1
+[15/05/2022 12:04:50] --> [ZONA COMUN] El niño N00036 ha salido de la zona comun
+[15/05/2022 12:04:50] --> [SOGA] El niño N00036 ha entrado a la soga
+[15/05/2022 12:04:51] --> El monitor M2 ha limpiado la bandeja 3
+[15/05/2022 12:04:52] --> [TIROLINA] El niño N00039 se esta bajando de la tirolina
+[15/05/2022 12:04:52] --> [ZONA COMUN] El niño N00003 ha salido de la zona comun
+[15/05/2022 12:04:52] --> [MERIENDA] El niño N00003 ha entrado al merendero
+[15/05/2022 12:04:53] --> [MERIENDA] El niño N00003 está comiendo su merienda en la bandeja 4
+[15/05/2022 12:04:53] --> [TIROLINA] El niño N00039 ha salido de la tirolina
+[15/05/2022 12:04:53] --> [ZONA COMUN] El niño N00039 ha entrado a la zona comun
+[15/05/2022 12:04:53] --> [SOGA] El monitor de soga M3 está preparando al niño N00042
+[15/05/2022 12:04:54] --> [TIROLINA] El niño N00042 se está tirando en la tirolina
+[15/05/2022 12:04:54] --> El monitor M1 ha limpiado la bandeja 2
+[15/05/2022 12:04:55] --> [ZONA COMUN] El niño N00039 ha salido de la zona comun
+[15/05/2022 12:04:55] --> [SOGA] El niño N00039 ha entrado a la soga
+[15/05/2022 12:04:57] --> [TIROLINA] El niño N00042 se esta bajando de la tirolina
+[15/05/2022 12:04:57] --> [TIROLINA] El niño N00042 ha salido de la tirolina
+[15/05/2022 12:04:57] --> [ZONA COMUN] El niño N00042 ha entrado a la zona comun
+[15/05/2022 12:04:57] --> [SOGA] El monitor de soga M3 está preparando al niño N00044
+[15/05/2022 12:04:58] --> [TIROLINA] El niño N00044 se está tirando en la tirolina
+[15/05/2022 12:05:00] --> [MERIENDA] El niño N00003 ha salido del merendero
+[15/05/2022 12:05:00] --> [ZONA COMUN] El niño N00003 ha entrado a la zona comun
